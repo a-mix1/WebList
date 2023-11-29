@@ -8,7 +8,7 @@ WebList is a straightforward website offering a collection of websites catering 
 
 ## Features
 
-- **Curated Categories:** Explore websites categorized into Programming, Design, Tech News, Learning Platforms, and Communities.
+- **Useful Websites** Explore websites categorized into Programming, Design, Tech News, Learning Platforms, and Communities.
 - **Direct Links:** Easily access each website with direct links provided.
 
 ## Usage
