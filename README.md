@@ -13,7 +13,7 @@ WebList is a straightforward website offering a collection of websites catering 
 
 ## Usage
 
-1. Visit the [WebList Website](#) to explore the curated list.
+1. Visit the [WebList Website](#a-mix1.github.io/WebList/) to explore the curated list.
 2. Navigate through different categories to find websites that match your interests.
 3. Click on the provided links to visit the websites directly.
 
